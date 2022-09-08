@@ -1,17 +1,13 @@
 {
-    "name": "Default",
+    "name": "City and State",
     "lists": [
         {
-            "name": "First Names",
-            "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
+            "name": "City",
+            "path": "cities.txt"
         },
         {
-            "name": "Last Names",
-            "path": "last-names.txt"
-        },
-        {
-            "name": "Addresses",
-            "path": "addresses.txt"
+            "name": "State",
+            "path": "states.txt"
         }
     ]
 }
